@@ -1,8 +1,8 @@
 {
-  "name": "counter-app",
+  "name": "count-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://indra-19.github.io/counter-app",
+  "homepage": "https://indra-19.github.io/count-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
